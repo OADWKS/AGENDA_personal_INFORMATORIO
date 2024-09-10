@@ -28,7 +28,7 @@ en tonos oscuros. Como color_theme se eligió dejar el color azul default de Ctk
 '''
 
 
-# 02_VENTANA PRINCIPAL
+## 02_VENTANA PRINCIPAL ##
 root = ctk.CTk()
 root.geometry("440x840")
 root.title("AGENDA de ANDREA")
